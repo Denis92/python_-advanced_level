@@ -1,0 +1,19 @@
+2019-05-20 23:08:23,166 - DEBUG - Client connect address = localhost port = 8888
+2019-05-20 23:08:23,167 - DEBUG - Send JSON to server {"action": "auth", "time": 1558382903.1661947, "user": {"login": "Denis", "pwd": "1234"}}
+2019-05-20 23:08:23,203 - DEBUG - JSON from servev {'response': 200, 'alert': 'Hello, Denis'}
+2019-05-21 00:19:21,074 - DEBUG - Client connect address = localhost port = 8888
+2019-05-21 00:19:21,075 - DEBUG - Send JSON to server {"action": "auth", "time": 1558387161.0746343, "user": {"login": "Denis", "pwd": "1234"}}
+2019-05-21 00:19:21,119 - DEBUG - JSON from servev {'response': 200, 'alert': 'Hello, Denis'}
+2019-05-21 00:19:53,065 - DEBUG - Client connect address = localhost port = 8888
+2019-05-21 00:19:53,066 - DEBUG - Send JSON to server {"action": "auth", "time": 1558387193.0668771, "user": {"login": "Denis", "pwd": "1234"}}
+2019-05-21 00:19:53,105 - DEBUG - JSON from servev {'response': 200, 'alert': 'Hello, Denis'}
+2019-05-21 00:32:25,316 - DEBUG - Client connect address = localhost port = 8888
+2019-05-21 00:32:25,317 - DEBUG - Send JSON to server {"action": "auth", "time": 1558387945.316305, "user": {"login": "Denis", "pwd": "1234"}}
+2019-05-21 00:32:25,338 - DEBUG - JSON from servev {'response': 200, 'alert': 'Hello, Denis'}
+2019-05-21 00:33:01,142 - DEBUG - Client connect address = localhost port = 8888
+2019-05-21 00:33:01,144 - DEBUG - Send JSON to server {"action": "auth", "time": 1558387981.1434531, "user": {"login": "Deni", "pwd": "1234"}}
+2019-05-21 00:33:01,167 - DEBUG - JSON from servev {'response': 402, 'alert': 'Wrong login or password'}
+2019-05-21 00:38:12,961 - DEBUG - Client connect address = localhost port = 8888
+2019-05-21 00:38:12,962 - DEBUG - Send JSON to server {"action": "auth", "time": 1558388292.961559, "user": {"login": "Denis", "pwd": "1234"}}
+2019-05-21 00:38:12,990 - DEBUG - JSON from servev {'response': 200, 'alert': 'Hello, Denis'}
+2019-05-21 00:42:13,705 - ERROR - No response from server

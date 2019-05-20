@@ -1,0 +1,48 @@
+2019-05-21 00:19:49,521 - INFO - Server start on addr = localhost port = 8888
+Server start on addr = localhost port = 8888
+2019-05-21 00:19:53,065 - INFO - Connection request received ('127.0.0.1', 54330)
+Connection request received ('127.0.0.1', 54330)
+2019-05-21 00:19:53,088 - DEBUG - GOOD JSON
+GOOD JSON
+2019-05-21 00:19:53,089 - DEBUG - JSON is valid
+JSON is valid
+2019-05-21 00:19:53,089 - DEBUG - valid auth {'action': 'auth', 'time': 1558387193.0668771, 'user': {'login': 'Denis', 'pwd': '1234'}}
+valid auth {'action': 'auth', 'time': 1558387193.0668771, 'user': {'login': 'Denis', 'pwd': '1234'}}
+2019-05-21 00:19:53,092 - DEBUG - Send to client: Hello, Denis
+Send to client: Hello, Denis
+Server start on addr = localhost port = 8888
+2019-05-21 00:31:16,350 - INFO - Server start on addr = localhost port = 8888
+Connection request received ('127.0.0.1', 54356)
+2019-05-21 00:32:25,316 - INFO - Connection request received ('127.0.0.1', 54356)
+GOOD JSON
+2019-05-21 00:32:25,318 - DEBUG - GOOD JSON
+JSON is valid
+2019-05-21 00:32:25,318 - DEBUG - JSON is valid
+valid auth {'action': 'auth', 'time': 1558387945.316305, 'user': {'login': 'Denis', 'pwd': '1234'}}
+2019-05-21 00:32:25,319 - DEBUG - valid auth {'action': 'auth', 'time': 1558387945.316305, 'user': {'login': 'Denis', 'pwd': '1234'}}
+Send to client: Hello, Denis
+2019-05-21 00:32:25,319 - DEBUG - Send to client: Hello, Denis
+Connection request received ('127.0.0.1', 54358)
+2019-05-21 00:33:01,143 - INFO - Connection request received ('127.0.0.1', 54358)
+GOOD JSON
+2019-05-21 00:33:01,146 - DEBUG - GOOD JSON
+JSON is valid
+2019-05-21 00:33:01,146 - DEBUG - JSON is valid
+Auth is not valid {'action': 'auth', 'time': 1558387981.1434531, 'user': {'login': 'Deni', 'pwd': '1234'}}
+2019-05-21 00:33:01,147 - ERROR - Auth is not valid {'action': 'auth', 'time': 1558387981.1434531, 'user': {'login': 'Deni', 'pwd': '1234'}}
+Wrong login or password
+2019-05-21 00:33:01,148 - ERROR - Wrong login or password
+Server start on addr = localhost port = 8888
+2019-05-21 00:38:03,542 - INFO - Server start on addr = localhost port = 8888
+Connection request received ('127.0.0.1', 54378)
+2019-05-21 00:38:12,961 - INFO - Connection request received ('127.0.0.1', 54378)
+GOOD JSON
+2019-05-21 00:38:12,963 - DEBUG - GOOD JSON
+JSON is valid
+2019-05-21 00:38:12,964 - DEBUG - JSON is valid
+valid auth {'action': 'auth', 'time': 1558388292.961559, 'user': {'login': 'Denis', 'pwd': '1234'}}
+2019-05-21 00:38:12,965 - DEBUG - valid auth {'action': 'auth', 'time': 1558388292.961559, 'user': {'login': 'Denis', 'pwd': '1234'}}
+Send to client: Hello, Denis
+2019-05-21 00:38:12,965 - DEBUG - Send to client: Hello, Denis
+Server start on addr = localhost port = 8888
+2019-05-21 00:38:35,043 - INFO - Server start on addr = localhost port = 8888
